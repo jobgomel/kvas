@@ -16,3 +16,18 @@ internal.deepl.com
 static.deepl.com
 login-wall.deepl.com
 
+[ai]
+# windsurf
+ingest.us.sentry.io
+windsurf.com
+cdn.logr-ingest.com
+exafunction.github.io
+codeium.com
+codeiumdata.com
+# openai
+ns1.cloudflare.net
+#anthropic
+claude.com
+claude.ai
+anthropic.com
+claudeusercontent.com
